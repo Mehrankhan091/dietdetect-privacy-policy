@@ -22,5 +22,6 @@ mmehrankhan091@gmail.com
 ---
 
 **Last Updated:** 09-04-2025  
-**App Version:** 1.0.0
+**App Version:** 1.0.2
+
 
