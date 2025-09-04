@@ -1,7 +1,7 @@
 # Privacy Policy for DietDetect
 
-**Effective Date:** [Current Date]  
-**App Version:** 1.0.0  
+**Effective Date:** 09-04-2025  
+**App Version:** 1.0.2  
 **Package Name:** com.dietdetect.app
 
 ## 1. Introduction
@@ -140,5 +140,6 @@ California residents have additional rights under the California Consumer Privac
 
 ---
 
-**Last Updated:** [09-03-2025]  
-**Version:** 1.0
+**Last Updated:** 09-04-2025  
+**Version:** 1.0.2
+
