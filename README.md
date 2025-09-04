@@ -16,9 +16,11 @@ DietDetect is an AI-powered nutrition tracking app that helps users:
 
 ## Contact
 
-For privacy-related questions, please contact us through the app or email.
+For privacy-related questions, please contact us through email.
+mmehrankhan091@gmail.com
 
 ---
 
-**Last Updated:** 09-03-2025  
+**Last Updated:** 09-04-2025  
 **App Version:** 1.0.0
+
