@@ -1,7 +1,7 @@
 # Privacy Policy for DietDetect
 
-**Effective Date:** [Current Date]  
-**App Version:** 1.0.0  
+**Effective Date:** July 1, 2026  
+**App Version:** 1.3.6  
 **Package Name:** com.dietdetect.app
 
 ## 1. Introduction
