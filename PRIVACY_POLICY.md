@@ -1,7 +1,7 @@
 # Privacy Policy for DietDetect
 
-**Effective Date:** 09-04-2025  
-**App Version:** 1.0.2  
+**Effective Date:** [Current Date]  
+**App Version:** 1.0.0  
 **Package Name:** com.dietdetect.app
 
 ## 1. Introduction
@@ -11,6 +11,7 @@ DietDetect ("we," "our," or "us") is committed to protecting your privacy. This 
 ## 2. Information We Collect
 
 ### 2.1 Camera and Image Data
+
 - **Camera Permission**: Our app requires camera access to:
   - Take photos of food for AI-powered nutrition analysis
   - Scan barcodes for packaged food information
@@ -18,17 +19,20 @@ DietDetect ("we," "our," or "us") is committed to protecting your privacy. This 
 - **Storage**: Images are stored locally on your device and may be cached temporarily
 
 ### 2.2 User Account Information
+
 - Email address (when you create an account)
 - Profile information (age, weight, height, fitness goals)
 - Authentication data through Google Sign-In
 
 ### 2.3 Health and Nutrition Data
+
 - Food consumption logs
 - Nutritional information
 - Fitness goals and progress
 - Health metrics (when integrated with Google Fit)
 
 ### 2.4 Device Information
+
 - Device model and operating system
 - App usage statistics
 - Crash reports and performance data
@@ -36,17 +40,20 @@ DietDetect ("we," "our," or "us") is committed to protecting your privacy. This 
 ## 3. How We Use Your Information
 
 ### 3.1 Core App Functionality
+
 - Provide AI-powered food recognition
 - Calculate nutritional information
 - Track your dietary habits and progress
 - Generate personalized insights and recommendations
 
 ### 3.2 Service Improvement
+
 - Analyze app performance and usage patterns
 - Fix bugs and improve user experience
 - Develop new features based on user needs
 
 ### 3.3 Communication
+
 - Send important app updates and notifications
 - Respond to user support requests
 - Provide customer service
@@ -54,19 +61,30 @@ DietDetect ("we," "our," or "us") is committed to protecting your privacy. This 
 ## 4. Data Sharing and Third-Party Services
 
 ### 4.1 AI Services
+
 - Food images may be sent to OpenAI's API for analysis
 - We do not share personal information with AI services
 - AI processing is done securely and anonymously
 
 ### 4.2 Google Services
+
 - Google Sign-In for authentication
 - Google Fit integration (optional) for health data
 - Google Play Services for app functionality
 
 ### 4.3 Analytics and Crash Reporting
+
 - Firebase Analytics for app usage statistics
 - Firebase Crashlytics for bug reporting
-- No personally identifiable information is shared
+- Meta (Facebook) App Events for measuring ad campaign performance and app installs (when you install the app via a Meta ad)
+- Device advertising identifier (Android Advertising ID) may be collected for ad attribution when Meta tracking is enabled
+- Analytics data is aggregated; we do not sell your personal health data
+
+### 4.4 Advertising and Measurement
+
+- We do not show third-party ads inside the app
+- We may use Meta's measurement tools to understand which ads led to app installs or subscriptions
+- This helps us improve our marketing; it does not give Meta access to your food logs, photos, or health data
 
 ## 5. Data Security
 
@@ -85,17 +103,20 @@ DietDetect ("we," "our," or "us") is committed to protecting your privacy. This 
 ## 7. Your Rights and Choices
 
 ### 7.1 Camera Permissions
+
 - You can revoke camera access in device settings
 - App functionality will be limited without camera access
 - You can choose not to take photos and use manual entry instead
 
 ### 7.2 Data Control
+
 - Access your personal data
 - Correct inaccurate information
 - Export your data
 - Delete your account and data
 
 ### 7.3 Opt-Out Options
+
 - Disable analytics and crash reporting
 - Turn off Google Fit integration
 - Limit data collection
@@ -111,6 +132,7 @@ Your data may be processed in countries other than your own. We ensure appropria
 ## 10. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by:
+
 - Posting the new Privacy Policy in the app
 - Sending you an email notification
 - Updating the "Effective Date" at the top
@@ -119,12 +141,13 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-**Email:** mmehrankhan091@gmail.com  
+**Email:** [support@mydietdetect.com](mailto:support@mydietdetect.com)  
 **App Support:** In-app support feature  
 
 ## 12. Legal Basis for Processing (EU Users)
 
 If you are in the European Union, our legal basis for processing your personal data includes:
+
 - **Consent**: When you explicitly agree to data processing
 - **Contract**: To provide app services you requested
 - **Legitimate Interest**: To improve our services and prevent fraud
@@ -133,6 +156,7 @@ If you are in the European Union, our legal basis for processing your personal d
 ## 13. California Privacy Rights (CCPA)
 
 California residents have additional rights under the California Consumer Privacy Act:
+
 - Right to know what personal information is collected
 - Right to delete personal information
 - Right to opt-out of data sales
@@ -140,6 +164,5 @@ California residents have additional rights under the California Consumer Privac
 
 ---
 
-**Last Updated:** 09-04-2025  
-**Version:** 1.0.2
-
+**Last Updated:** July 1, 2026  
+**Version:** 1.3.6
